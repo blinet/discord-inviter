@@ -1,4 +1,3 @@
-
 # Discord-inviter
 
 [![downloadsBadge](https://img.shields.io/npm/dt/discord-inviter)](https://npmjs.com/discord-inviter)
@@ -79,10 +78,19 @@ client.on("messageCreate", async (message) => {
         .map((i, n) => `\`#${n + 1}\`- **${i.user.tag}** has __${i.count}__`)
         .join("\n")
     );
+    // get info of any invite code
+  } else if (message.content == "invite-info") {
+    var invite = await inviteTracker.getInfo(client, "VwTxJaqjsJ");
+    if (!invite) return;
+    
+    message.channel.send(
+      `Guild: ${invite.guild.name},\nInviter: ${
+        invite?.inviter
+          ? `${invite.inviter.tag}`
+          : "Owner"
+      },\nLink: ${invite.url}`
+    );
   }
 });
 ```
-
-## Examples of bots made with Discord Inviter
-
-- **[Discord-welcomer](https://github.com/Zsl8/discord-welcomer)** by [Z.](https://github.com/Zsl8)
+## Thanks.
