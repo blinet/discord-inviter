@@ -3,6 +3,7 @@
 [![downloadsBadge](https://img.shields.io/npm/dt/discord-inviter)](https://npmjs.com/discord-inviter)
 [![versionBadge](https://img.shields.io/npm/v/discord-inviter)](https://npmjs.com/discord-inviter)
 [![discordBadge](https://img.shields.io/discord/828240195236266005?color=7289da)](https://discord.gg/VwTxJaqjsJ)
+[![donateBadge](https://img.shields.io/badge/-donate-blue.svg?logo=paypal)](https://paypal.me/arosteam)
 
 ## Installation
 
