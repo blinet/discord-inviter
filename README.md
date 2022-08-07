@@ -4,7 +4,7 @@
 [![versionBadge](https://img.shields.io/npm/v/discord-inviter)](https://npmjs.com/discord-inviter)
 [![discordBadge](https://img.shields.io/discord/828240195236266005?color=7289da)](https://discord.gg/VwTxJaqjsJ)
 [![donateBadge](https://img.shields.io/badge/-donate-blue.svg?logo=paypal)](https://paypal.me/arosteam)
-
+<a href="https://github.com/arosteam"><img src="https://img.shields.io/static/v1?label=powered%20by&message=Aros&color=000636&style=for-the-badge&logo=Windows%20Terminal&logoColor=fff"/></a>
 ## Installation
 
 ### Install **[discord-inviter](https://npmjs.com/package/discord-inviter)**
