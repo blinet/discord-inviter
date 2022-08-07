@@ -9,6 +9,7 @@
   </p>
   
 </div>
+
 ## Installation
 
 ### Install **[discord-inviter](https://npmjs.com/package/discord-inviter)**
