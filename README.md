@@ -1,10 +1,14 @@
 # Discord-inviter
+<div align="center">
+  <p>
+ <a href="https://github.com/arosteam"><img src="https://img.shields.io/static/v1?label=powered%20by&message=Aros&color=000636&style=for-the-badge&logo=Windows%20Terminal&logoColor=fff"/></a>
+ <a href="https://www.npmjs.com/package/discord-inviter"><img src="https://img.shields.io/npm/v/discord-inviter.svg?style=for-the-badge" alt="NPM version" /></a>
+ <a href="https://www.npmjs.com/package/discord-inviter"><img src="https://img.shields.io/npm/dt/discord-inviter.svg?maxAge=3600&style=for-the-badge" alt="NPM downloads" /></a>
+     <a href="https://paypal.me/arosteam?country.x=SA&locale.x=ar_EG"><img src="https://img.shields.io/badge/-donate-blue.svg?logo=paypal&style=for-the-badge" alt="NPM downloads" /></a>
 
-[![downloadsBadge](https://img.shields.io/npm/dt/discord-inviter)](https://npmjs.com/discord-inviter)
-[![versionBadge](https://img.shields.io/npm/v/discord-inviter)](https://npmjs.com/discord-inviter)
-[![discordBadge](https://img.shields.io/discord/828240195236266005?color=7289da)](https://discord.gg/VwTxJaqjsJ)
-[![donateBadge](https://img.shields.io/badge/-donate-blue.svg?logo=paypal)](https://paypal.me/arosteam)
-<a href="https://github.com/arosteam"><img src="https://img.shields.io/static/v1?label=powered%20by&message=Aros&color=000636&style=for-the-badge&logo=Windows%20Terminal&logoColor=fff"/></a>
+  </p>
+  
+</div>
 ## Installation
 
 ### Install **[discord-inviter](https://npmjs.com/package/discord-inviter)**
